@@ -1,0 +1,11 @@
+1. var
+     
+    var acess the global and local variable its is override the values
+
+2.let 
+
+    let global and local variables have difference acces it is variable name isn't  same name its difference 
+
+3.const
+
+   const global and local variables have difference acces it is variable name isn't  same name its difference its cannot be override the same variable
